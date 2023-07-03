@@ -30,3 +30,7 @@
  - CSS3
  - JavaScript
  - JQuery
+
+   ## Autor
+   *Michael Rodrigues*
+   [Linkedin](https://www.linkedin.com/in/michael-lfrodrigues/)
