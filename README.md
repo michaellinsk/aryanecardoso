@@ -1,8 +1,5 @@
 <h1 align="center">
 <img src="./aryanecardoso/img/BACKGRAUND/Ariane.png" height="200px" width="95%"/>
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
-</style>
 
 *🌟Projeto Aryane Cardoso🌟*
  </h1>
