@@ -32,5 +32,5 @@
  - JQuery
 
    ## Autor
-   ##### *Michael Rodrigues*
-   ##### [Linkedin](https://www.linkedin.com/in/michael-lfrodrigues/)
+   ### *Michael Rodrigues*
+   ### [Linkedin](https://www.linkedin.com/in/michael-lfrodrigues/)
