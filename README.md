@@ -11,7 +11,7 @@
 
 <p style="text-align: justify;">Com um Curso de maquiagem totalmente Desenvolvido, Aryane precisava de uma ferramenta solida para divulgar o seu trabalho, captar clientes e gerênciar o cadastro dos inscritos</p>
 
-<p style="text-align: justify;"> Foi então que surgiu a idéia de uma landing page criada para que as pessoas interessadas em maquigem, pudessem conhecer o trabalho da aryane, o curso desenvolvido, alem das tecnicas que serão ensinadas no curso, com o intuito de alcançar o objetivo principal que é a geração de leads e a venda do curso do auto maquiagem.
+<p style="text-align: justify;"> Foi então que surgiu a idéia de uma landing page criada para que as pessoas interessadas em maquigem, pudessem conhecer o trabalho da aryane, o curso desenvolvido, alem das tecnicas que serão ensinadas no curso, com o intuito de alcançar o objetivo principal que é a geração de leads e a venda do curso de auto maquiagem.
 
 ## Layout
 <div style="display: flex;">
